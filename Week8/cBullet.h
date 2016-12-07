@@ -2,7 +2,7 @@
 =================
 cBullet.h
 - Header file for class definition - SPECIFICATION
-- Header file for the Bullet class which is a child of cSprite class
+- Header file for the Bullet class which is a child of cSprite class 
 =================
 */
 #ifndef _CBULLET_H
